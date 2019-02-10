@@ -1,0 +1,8 @@
+- Change page title?
+
+PAGES:
+
+- Home, list of top coins, like cmc
+- Watchlist, list of coins in Watchlist
+- Portfolio, list of trades
+- Coin Detail, coin detail info w/ chart
